@@ -1,4 +1,4 @@
-I have modified Session #0 code up to [https://github.com/justinAurand/blazor-workshop/blob/master/docs/03-show-order-status.md](this point).
+I have modified Session #0 code up to [this point](https://github.com/justinAurand/blazor-workshop/blob/master/docs/03-show-order-status.md).
 
 # Blazor - app building workshop
 
