@@ -10,9 +10,7 @@ namespace BlazingPizza
         public readonly static TimeSpan DeliveryDuration = TimeSpan.FromMinutes(1); // Unrealistic, but more interesting to watch
 
         public Order Order { get; set; }
-
         public string StatusText { get; set; }
-
         public List<Marker> MapMarkers { get; set; }
 
         public static OrderWithStatus FromOrder(Order order)

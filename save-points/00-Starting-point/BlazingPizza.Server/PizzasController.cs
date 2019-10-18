@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
-
-namespace BlazingPizza.Server
+﻿namespace BlazingPizza.Server
 {
+    using Microsoft.AspNetCore.Mvc;
+
     [Route("pizzas")]
     [ApiController]
     public class PizzasController : Controller
