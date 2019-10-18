@@ -1,10 +1,10 @@
-﻿using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-
-namespace BlazingPizza.Server
+﻿namespace BlazingPizza.Server
 {
+    using System.Linq;
+    using System.Threading.Tasks;
+    using Microsoft.AspNetCore.Authorization;
+    using Microsoft.AspNetCore.Mvc;
+
     [Route("notifications")]
     [ApiController]
     [Authorize]
